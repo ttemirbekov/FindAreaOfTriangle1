@@ -10,6 +10,8 @@ public class Triangle {
         double s = (a + b + c) / 2;
         System.out.println("The area of triangle is: " + Math.sqrt(s * (s - a) * (s - b) * (s - c)));
 
+
+
     }
 
 }
